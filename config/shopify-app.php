@@ -146,7 +146,7 @@ return [
     |
     */
 
-    'app_name' => env('SHOPIFY_APP_NAME', 'Shopify App'),
+    'app_name' => env('SHOPIFY_APP_NAME', 'checkout-app'),
 
     /*
     |--------------------------------------------------------------------------
@@ -285,7 +285,7 @@ return [
     |
     */
 
-    'myshopify_domain' => env('SHOPIFY_MYSHOPIFY_DOMAIN', 'checkout-store-v2.myshopify.com'),
+    'myshopify_domain' => env('SHOPIFY_MYSHOPIFY_DOMAIN', 'myshopify.com'),
 
     /*
     |--------------------------------------------------------------------------
