@@ -23,7 +23,8 @@ class User extends Authenticatable implements IShopModel
         'name',
         'email',
         'password',
-        'deleted_user'
+        'deleted_user',
+        "shopify_namespace"
     ];
 
     /**
