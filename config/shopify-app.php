@@ -217,7 +217,7 @@ return [
     |
     */
 
-    'api_redirect' => env('SHOPIFY_API_REDIRECT', '/authenticate'),
+    'api_redirect' => env('SHOPIFY_API_REDIRECT', 'https://phplaravel-1500968-5825594.cloudwaysapps.com/authenticate'),
 
     /*
     |--------------------------------------------------------------------------
