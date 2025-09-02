@@ -13,6 +13,6 @@
 @endsection
 
 @section("content")
-<h1>WeLCOME Page</h1>
+<h1>Acceuil</h1>
 
 @endsection
